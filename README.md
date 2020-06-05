@@ -64,6 +64,15 @@ really easy!) or use the default Gemini theme.
 </a>
 </p>
 
+### Oxford theme
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/LoryPack/gemini/assets/poster-oxford.pdf">
+<img src="https://raw.githubusercontent.com/LoryPack/gemini/assets/poster-oxford-small.png">
+</a>
+</p>
+
+
 ## Design goals
 
 * **Minimal**: clean and easy to read, so that the emphasis is on the content
